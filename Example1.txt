@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+this is example 1 by dev 2
+=======
 this is example 1 by dev1
+>>>>>>> origin/master
